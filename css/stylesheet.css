@@ -1,0 +1,119 @@
+html{
+    background-color: #580000;
+}
+
+body{
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: rgb(204, 204, 204);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0 0 10px black;
+}
+
+header{
+    background-color: rgb(94, 94, 94);
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex: center;
+    align-items: center;
+    display: flex;
+
+}
+
+img{
+    width: 100%;
+}
+nav{
+    background-color: rgb(87, 1, 1);
+}
+nav{
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex: center;
+    align-items: center;
+    display: flex;
+}
+
+
+a{
+    color: white;
+    background-color:rgb(87, 1, 1);
+}
+.nav{
+    display: inline-block;
+    height: 100%;
+    margin:1%;
+    text-align: center;
+    padding:0;
+    width: 20%;
+    border-width: 100%;
+    border-top: 100%;
+
+}
+.Active{
+    display: inline-block;
+    height: 100%;
+    margin:1%;
+    text-align: center;
+    padding:0;
+    width: 20%;
+    border-width: 100%;
+    border-top: 100%;
+    color: Grey;
+}
+.L{
+    color: white;
+    background-color:rgb(87, 1, 1);
+    border-style: ridge;
+    padding: 10px;
+    margin: 20px;
+    display: inline-box;
+    
+}
+div{
+    box-shadow: 0px 5px 5px black;
+    border-style: ridge;
+    border-color: grey;
+}
+
+footer{
+    background-color: darkgray;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex: center;
+    align-items: center;
+    display: flex;
+    display: inline-box;
+    margin-top: 10%;
+    box-shadow: 0px -5px 5px black;
+}
+
+
+p{
+    margin: 10px;
+}
+
+h2{
+    margin:10px
+}
+
+figcaption{
+    background-color: darkgray;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex: center;
+    align-items: center;
+    display: flex;
+    display: inline-box;
+    margin-top: 0%;
+    box-shadow: 5px 5px 5px black;
+}
+
+h1{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
